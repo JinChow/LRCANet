@@ -8,13 +8,13 @@ conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cud
 
 ## install other requirements
 pip install -r requirements.txt
-```
+```https://github.com/JinChow/LRCANet/blob/main/README.md
 
 ## Datasets
 The used datasets are provided in [VideoEmotion-8](https://drive.google.com/drive/folders/0B5peJ1MHnIWGd3pFbzMyTG5BSGs?resourcekey=0-hZ1jo5t1hIauRpYhYIvWYA) and [Ekman-6](https://github.com/kittenish/Frame-Transformer-Network). The train/test splits in both two datasets follow the official procedure. To prepare the data, you can refer to VideoMAE V2 for a general guideline.
 
 ## Model
-We now provide the model weights in (https://pan.baidu.com/s/1LjO4nqA0z4qMD-CvVtjAsw?pwd=CHOW) 
+We now provide the model weights in https://pan.baidu.com/s/1LjO4nqA0z4qMD-CvVtjAsw?pwd=CHOW
 
 ## Eval
 You can easily evaluate the model by running the script below. 
@@ -23,4 +23,4 @@ bash eval.sh
 ```
 To get the fusion result, please run the test.py
 
-## Please email to jinchow@gnnu.edu.cn if you are interested in our work. We would be fairly pleased if you find the code useful.
+Please email to jinchow@gnnu.edu.cn if you are interested in our work. We would be fairly pleased if you find the code useful.
