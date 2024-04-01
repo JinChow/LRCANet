@@ -21,6 +21,6 @@ You can easily evaluate the model by running the script below.
 ```
 bash eval.sh
 ```
-To get the fusion result, please run the test.py
+To get the fusion result, please run the test.py.
 
-Please email to jinchow@gnnu.edu.cn if you are interested in our work. We would be fairly pleased if you find the code useful.
+Cheerfully, our work is under review. Please email to jinchow@gnnu.edu.cn if you are interested in our work. We would be fairly pleased if you find the code useful.
