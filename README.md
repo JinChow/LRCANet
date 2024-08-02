@@ -23,4 +23,13 @@ bash eval.sh
 ```
 To get the fusion result, please run the test.py.
 
-Cheerfully, our work is under review. Please email to jinchow@gnnu.edu.cn if you are interested in our work. We would be fairly pleased if you find the code useful.
+Please email to jinchow@gnnu.edu.cn if you are interested in our work. We would be fairly pleased if you find the code useful and cite the following paper.
+```
+@article{yi2024emotion,
+  title={Emotion recognition in user-generated videos with long-range correlation-aware network},
+  author={Yi, Yun and Zhou, Jin and Wang, Hanli and Tang, Pengjie and Wang, Min},
+  journal={IET Image Processing},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
